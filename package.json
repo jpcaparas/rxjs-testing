@@ -1,7 +1,10 @@
 {
   "name": "rxjs-testing",
   "version": "0.0.1",
-  "main": "index.html",
+  "scripts": {
+      "start": "parcel src/index.html",
+      "build": "parcel build src/index.html"
+  },
   "repository": "git@github.com:jpcaparas/rxjs-testing.git",
   "author": "JP <jp@jpcaparas.com>",
   "license": "MIT",
