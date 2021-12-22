@@ -1,0 +1,11 @@
+{
+  "name": "rxjs-testing",
+  "version": "0.0.1",
+  "main": "index.html",
+  "repository": "git@github.com:jpcaparas/rxjs-testing.git",
+  "author": "JP <jp@jpcaparas.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
