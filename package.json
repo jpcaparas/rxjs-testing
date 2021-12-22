@@ -2,13 +2,16 @@
   "name": "rxjs-testing",
   "version": "0.0.1",
   "scripts": {
-      "start": "parcel src/index.html",
-      "build": "parcel build src/index.html"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
   "repository": "git@github.com:jpcaparas/rxjs-testing.git",
   "author": "JP <jp@jpcaparas.com>",
   "license": "MIT",
   "devDependencies": {
     "parcel": "^2.0.1"
+  },
+  "dependencies": {
+    "rxjs": "^7.4.0"
   }
 }
